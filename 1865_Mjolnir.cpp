@@ -1,0 +1,28 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+	int n;
+	cin>>n;
+
+	while(n--){
+		string s;
+		cin>>s;
+		int t;
+		cin>>t;
+
+		if(s=="Thor"){
+			cout<<"Y"<<endl;
+		}
+		else{
+			cout<<"N"<<endl;
+		}
+	}
+
+
+
+
+
+
+
+}
